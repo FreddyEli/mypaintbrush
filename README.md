@@ -4,7 +4,7 @@ A small keyboard design for those who cannot or prefer not use 'traditional' key
 
 *This project aims to create a small keyboard design that is adaptable and flexible. Especially for those with disabilities, those who cannot type on traditional keyboads and those that prefer not use traditional keyboards.*
 
-![Version 5 Rendering](gallery/mypaintbrush-normal.png)
+![Version 5 Rendering](./gallery/mypaintbrush_normal.png)
 
 ## Versions
 
