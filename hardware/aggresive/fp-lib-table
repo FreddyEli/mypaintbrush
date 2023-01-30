@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "paintbrush")(type "KiCad")(uri "/home/estatuadetamal/gitstuff/teclados/paintbrush/mypaintbrush/hardware/paintbrush.pretty")(options "")(descr ""))
+)
